@@ -12,6 +12,8 @@
     "@elysia/node": "2.0.0-exp.3",
     "@hapi/hapi": "^21.4.10",
     "@nbit/bun": "^0.13.4",
+    "@nifrajs/core": "2.12.1",
+    "@nifrajs/node": "2.12.1",
     "@nestjs/common": "^11.1.28",
     "@nestjs/core": "^11.1.28",
     "@nestjs/platform-express": "^11.1.28",
